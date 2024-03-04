@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8bd43d72-923a-4229-a4ec-aa63ca0380a0" name="変更" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JupyterNotebook/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace" beforeDir="false" afterPath="$PROJECT_DIR$/JupyterNotebook/.jupyter/desktop-workspaces/default-37a8.jupyterlab-workspace" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JupyterNotebook/KaggleHousePrices.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/JupyterNotebook/KaggleHousePrices.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PreProcessing/PreProcessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/PreProcessing/PreProcessing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,5 +94,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Main.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
